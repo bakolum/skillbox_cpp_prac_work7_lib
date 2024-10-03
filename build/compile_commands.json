@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/batyr/Desktop/skillbox/LIB/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMATH_DOUBLE_PREC_DEFINE -Dshared_matrixlib_EXPORTS @CMakeFiles/shared-matrixlib.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\shared-matrixlib.dir\\src\\matrix.cpp.obj -c C:\\Users\\batyr\\Desktop\\skillbox\\LIB\\src\\matrix.cpp",
+  "file": "C:/Users/batyr/Desktop/skillbox/LIB/src/matrix.cpp",
+  "output": "CMakeFiles/shared-matrixlib.dir/src/matrix.cpp.obj"
+},
+{
+  "directory": "C:/Users/batyr/Desktop/skillbox/LIB/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMATH_DOUBLE_PREC_DEFINE -Dshared_matrixlib_EXPORTS @CMakeFiles/shared-matrixlib.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\shared-matrixlib.dir\\src\\c\\c_api.cpp.obj -c C:\\Users\\batyr\\Desktop\\skillbox\\LIB\\src\\c\\c_api.cpp",
+  "file": "C:/Users/batyr/Desktop/skillbox/LIB/src/c/c_api.cpp",
+  "output": "CMakeFiles/shared-matrixlib.dir/src/c/c_api.cpp.obj"
+}
+]

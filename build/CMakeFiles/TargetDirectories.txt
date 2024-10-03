@@ -1,0 +1,3 @@
+C:/Users/batyr/Desktop/skillbox/LIB/build/CMakeFiles/shared-matrixlib.dir
+C:/Users/batyr/Desktop/skillbox/LIB/build/CMakeFiles/edit_cache.dir
+C:/Users/batyr/Desktop/skillbox/LIB/build/CMakeFiles/rebuild_cache.dir
